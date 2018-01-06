@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Great Friends, Good Health, and Audacious Adventure
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A blog about humans, technology, and the crazy voices inside my head.
 
-### Contact me
+[//]: # Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[//]: # [mike.jiao@uwaterloo.ca](mailto:mike.jiao@uwaterloo.ca)
